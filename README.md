@@ -83,37 +83,4 @@ Homepage: [https://faculty.iiit.ac.in/~vv](https://faculty.iiit.ac.in/~vv)
 **Tanmoy Chakraborty** is an Assistant Professor and a Ramanujan Fellow at the Dept. of CSE., IIIT-Delhi. Prior to this, he was a postdoctoral researcher at University of Maryland, College Park. He completed his PhD as a Google India PhD scholar at IIT Kharagpur, India. His PhD thesis got the best thesis awards from Indian National Academy of Engineering (INAE), IBM Research and Xerox Research. His research group, LCS2, broadly works in the areas of Social Network Analysis and Natural Language Processing, with special focus on cyber-informatics and adversarial data science. He is a recipient of several prestigious awards including Faculty Awards from Google, IBM, Accenture. He was also a DAAD visiting faculty at Max Planck Institute for Informatics. He has been working with industries including Google, IBM, Wipro, Accenture, Logically, Flipkart, Hike. He is also involved in mentoring several tech startups. He has recently co-authored two books -- "Data Science for Fake News Detection: Surveys and Perspectives" (Springer International Publishing) and "Social Network Analysis: Concepts & Applications" (Wiley publication, in press). He has been in organizing committee of NAACL'21, PAKDD'21, and in PC/SPC/AC committee of AAAI, ACL, EMNLP, SIGKDD, The WebConf, IJCAI, etc. He has served as a (guest) editor of four special issues in journals.  
 Email: tanmoy@iiitd.ac.in  
 Homepage: [http://faculty.iiitd.ac.in/~tanmoy](http://faculty.iiitd.ac.in/~tanmoy)  
-Lab page: [http://lcs2.iiitd.edu.in/](http://lcs2.iiitd.edu.in/)  
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/combating-hatespeech/combating-hatespeech.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Lab page: [http://lcs2.iiitd.edu.in/](http://lcs2.iiitd.edu.in/)
